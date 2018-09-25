@@ -1,0 +1,4 @@
+See file:///C:/cppdemo/build/tmp/linkMainExecutable/output.txt for all output for linkMainExecutable.
+linking main.exe successful.
+
+Finished linkMainExecutable, see full log file:///C:/cppdemo/build/tmp/linkMainExecutable/output.txt.

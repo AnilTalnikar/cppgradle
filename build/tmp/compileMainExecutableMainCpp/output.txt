@@ -1,0 +1,10 @@
+See file:///C:/cppdemo/build/tmp/compileMainExecutableMainCpp/output.txt for all output for compileMainExecutableMainCpp.
+compiling greeting.hpp successful.
+greeting.hpp
+
+compiling main.cpp successful.
+main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+
+Finished compileMainExecutableMainCpp, see full log file:///C:/cppdemo/build/tmp/compileMainExecutableMainCpp/output.txt.

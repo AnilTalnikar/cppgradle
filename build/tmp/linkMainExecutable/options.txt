@@ -1,0 +1,7 @@
+/OUT:C:\cppdemo\build\exe\main\main.exe
+/NOLOGO
+"/LIBPATH:C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\lib"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\8.1\Lib\winv6.3\um\x86"
+"/LIBPATH:C:\Program Files (x86)\Windows Kits\10\Lib\10.0.10240.0\ucrt\x86"
+C:\cppdemo\build\objs\main\mainCpp\1axngvnp1donp5zf1esxcfedz\greeting.obj
+C:\cppdemo\build\objs\main\mainCpp\biznmyfp3z431mmtf5jlwqjsh\main.obj
